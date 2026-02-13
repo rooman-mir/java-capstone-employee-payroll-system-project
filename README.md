@@ -28,3 +28,5 @@ java -cp bin com.payroll.MainApp
 - Calculate DA (10% of basic salary)
 - Store data in MySQL database
 - View employee salary by ID
+
+# This Project is created by Rooman Mir for Java Capstone project within SEED Academy course!
